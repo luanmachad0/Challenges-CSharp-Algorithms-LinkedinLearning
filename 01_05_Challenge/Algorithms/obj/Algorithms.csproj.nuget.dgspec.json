@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\01\\01_05_Challenge\\Algorithms\\Algorithms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\01\\01_05_Challenge\\Algorithms\\Algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\01\\01_05_Challenge\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\01\\01_05_Challenge\\Algorithms\\Algorithms.csproj",
+        "packagesPath": "C:\\Users\\LuandaSilvaMachado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\01\\01_05_Challenge\\Algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LuandaSilvaMachado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "C:\\Users\\LuandaSilvaMachado\\.nuget\\local": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/ProntmedSA/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

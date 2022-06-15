@@ -1,0 +1,23 @@
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_05_Challenge\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.genruntimeconfig.cache

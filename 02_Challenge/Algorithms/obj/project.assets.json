@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\01_05_Challenge\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\02_Challenge\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\01_05_Challenge\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\02_Challenge\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\LuandaSilvaMachado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\01_05_Challenge\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\LuandaSilvaMachado\\Documents\\LinkedIN Learning\\C# algorithms\\Challenges\\02_Challenge\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LuandaSilvaMachado\\AppData\\Roaming\\NuGet\\NuGet.Config",

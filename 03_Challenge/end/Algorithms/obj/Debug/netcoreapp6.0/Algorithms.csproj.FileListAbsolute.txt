@@ -1,0 +1,5 @@
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Challenges\03_Challenge\end\Algorithms\obj\Debug\netcoreapp6.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Challenges\03_Challenge\end\Algorithms\obj\Debug\netcoreapp6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Challenges\03_Challenge\end\Algorithms\obj\Debug\netcoreapp6.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Challenges\03_Challenge\end\Algorithms\obj\Debug\netcoreapp6.0\Algorithms.AssemblyInfo.cs
+C:\Users\LuandaSilvaMachado\Documents\LinkedIN Learning\C# algorithms\Challenges\03_Challenge\end\Algorithms\obj\Debug\netcoreapp6.0\Algorithms.csproj.CoreCompileInputs.cache
